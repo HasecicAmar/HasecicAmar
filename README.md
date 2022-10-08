@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Amar Hasečić</h1>
 
 
-I am a student at Faculty of Electrical Engineering in Sarajevo. 
+<p> I am a student at Faculty of Electrical Engineering in Sarajevo. </p>
 Progress: [75%] [###########################################################################.........................]
 Link to my student github account: https://github.com/AmarHasecic
 
